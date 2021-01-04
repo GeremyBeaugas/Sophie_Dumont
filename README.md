@@ -2,7 +2,7 @@
 
 ## Liens
 
-* [Ici](http://62.210.83.115:11209/wordpress/), le lien du nouveeau site Wordpress
+* [Ici](http://62.210.83.115:11209/wordpress/), le lien du nouveau site Wordpress
 * [Ici](http://sophiedumont.com/index.htm), le lien du site existant
 
 ## Documents externes
