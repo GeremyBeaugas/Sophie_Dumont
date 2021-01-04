@@ -5,7 +5,7 @@
 ### Titre de niveau 3
 
 * L'étoile sert à faire une puce, un rond noir
-- GitHub Desktop
+
 
 Cliquez [ici](lien) pour ....
 
