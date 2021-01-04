@@ -16,6 +16,11 @@ Les images sont dans le répertoire "Images galeries"
 * Lucas Dabout** _alias_ [@lucasdabout](https://github.com/lucasdabout)
 * Alban Safdari** _alias_ [@albansafdari](https://github.com/albansafdari)
 
+## Quelques changements
+
+Nous avons volontairement enlever la partie "Liens" initalement présente sur le site existant, car nous trouvions ça inutile. 
+Nous avons également supprimer le compteurs de visiteurs, jugé innaproprié.
+
 ## Gérer le site
 
 A noter qu'il y a un utilisateur sur le site Wordpress, "lucalban" qui est administrateur et qui a donc tous les droits.
