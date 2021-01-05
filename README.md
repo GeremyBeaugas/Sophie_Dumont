@@ -11,9 +11,8 @@
 
 ## Documents externes
 
-La charte graphique est dans le répertoire "Documents" sur ce repository
-Les images sont dans le répertoire "Images galeries"
-[Ici](https://docs.google.com/document/d/1udi86MPuZnY6vrZiNolJlIV6sqBiychcHQc2xzzsz8E/edit?usp=sharing), le lien Google Drive vers le cahier des charges ainsi que la maquette
+La charte graphique ainsi que tous les autres documents sont dans le répertoire "Documents" sur ce repository
+Les images sont dans le répertoire "[Images galeries]"(https://github.com/lucasdabout/Sophie_Dumont/tree/main/Images_galeries)
 
 ## Auteurs
 
