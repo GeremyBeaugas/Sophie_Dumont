@@ -28,4 +28,5 @@ Idéalement, il faudrait ajouter un utlisateur au nom de Sophie Dumont en tant q
 
 ## Répartiton des tâches 
 
-Les tâches ont étaient reparties de manière équitable, mais flou étant donné que nous avons tous les deux touchés à l'ensemble des tâches demandées nous ne pouvons définir de rôle précis. 
+Les tâches ont étaient reparties de manière équitable. 
+Lucas s'est principalement occupé à faire le site en lui même (90%) et la documentation artiste. Quant à Alban, il s'est occupé de la charte graphique, la maquette, et le cahier des charges (90%)
