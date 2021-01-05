@@ -5,9 +5,9 @@
 * [Ici](http://62.210.83.115:11209/wordpress/), le lien du nouveau site Wordpress
 * [Ici](http://sophiedumont.com/index.htm), le lien du site existant
 * [Cahier des charges](https://github.com/lucasdabout/Sophie_Dumont/blob/main/Documents/Cahier_des_%20charges.pdf)
-* [Charte graphique]()
-* [Documentation pour l'artiste]()
-* [Maquette]()
+* [Charte graphique](https://github.com/lucasdabout/Sophie_Dumont/blob/main/Documents/Charte_graphique.pdf)
+* [Documentation pour l'artiste](https://github.com/lucasdabout/Sophie_Dumont/blob/main/Documents/documentation_artiste.pdf)
+* [Maquette](https://github.com/lucasdabout/Sophie_Dumont/blob/main/Documents/maquette.pdf)
 
 ## Documents externes
 
