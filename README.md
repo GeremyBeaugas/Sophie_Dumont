@@ -25,3 +25,7 @@ Nous avons également supprimer le compteurs de visiteurs, jugé innaproprié.
 
 A noter qu'il y a un utilisateur sur le site Wordpress, "lucalban" qui est administrateur et qui a donc tous les droits.
 Idéalement, il faudrait ajouter un utlisateur au nom de Sophie Dumont en tant qu'éditrice de sorte à ce qu'elle puisse ajouter, et modifier les pages comme bon lui souhaite, sans toucher réellement à la structure du site.
+
+## Repartiton des taches 
+
+Les taches ont était repartis de manière equitable mais flou étant donné que nous avons tous deux touchers à l'ensemble des tâches demandées nous ne pouvons définir de rôle précis. 
