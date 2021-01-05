@@ -4,6 +4,7 @@
 
 * [Ici](http://62.210.83.115:11209/wordpress/), le lien du nouveau site Wordpress
 * [Ici](http://sophiedumont.com/index.htm), le lien du site existant
+* [Charte graphique](https://github.com/lucasdabout/Sophie_Dumont/blob/main/Documents/Cahier_des_%20charges.pdf)
 
 ## Documents externes
 
