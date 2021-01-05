@@ -12,7 +12,7 @@
 ## Documents externes
 
 La charte graphique ainsi que tous les autres documents sont dans le répertoire "Documents" sur ce repository
-Les images sont dans le répertoire "[Images galeries]"(https://github.com/lucasdabout/Sophie_Dumont/tree/main/Images_galeries)
+Les images sont dans le répertoire "[Images galeries](https://github.com/lucasdabout/Sophie_Dumont/tree/main/Images_galeries)"
 
 ## Auteurs
 
