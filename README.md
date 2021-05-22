@@ -17,7 +17,7 @@ Les images sont dans le répertoire "[Images galeries](https://github.com/lucasd
 ## Auteurs
 
 * Lucas Dabout** _alias_ [@lucasdabout](https://github.com/lucasdabout)
-* Alban Safdari** _alias_ [@albansafdari](https://github.com/albansafdari)
+* Gérémy Beaugas** _alias_ [@geremybeaugas](https://github.com/GeremyBeaugas)
 
 ## Quelques changements
 
